@@ -3,7 +3,7 @@ title: "Extending Behavioral Programming Towards Improved Software Engineering P
 collection: publications
 permalink: /publication/msc_thesis
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-#date: 2009-10-01
+date: 2021-06-01
 #venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/Tom_Yaacov_M_Sc__Thesis.pdf'
 citation: 'T. Yaacov, “Extending behavioral programming towards improvedsoftware engineering practices,” M.Sc. Thesis, 2021.'
