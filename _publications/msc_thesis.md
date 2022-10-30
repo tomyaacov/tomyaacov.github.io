@@ -8,8 +8,5 @@ permalink: /publication/msc_thesis
 paperurl: 'http://academicpages.github.io/files/Tom_Yaacov_M_Sc__Thesis.pdf'
 citation: 'T. Yaacov, “Extending behavioral programming towards improvedsoftware engineering practices,” M.Sc. Thesis, 2021.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
 [Download paper here](http://academicpages.github.io/files/Tom_Yaacov_M_Sc__Thesis.pdf)
-
-Recommended citation: T. Yaacov, “Extending behavioral programming towards improvedsoftware engineering practices,” M.Sc. Thesis, 2021.
+T. Yaacov, “Extending behavioral programming towards improvedsoftware engineering practices,” M.Sc. Thesis, 2021.
