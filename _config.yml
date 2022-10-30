@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tom Yaacov"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tom Yaacov"
 description              : &description "Ph.D. Candidate at Ben-Gurion University of the Negev"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Tom Yaacov"
   avatar           : "tom_yaacov.jpeg"
   bio              : ""
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rZrcyk0AAAAJ&hl=en"
-  email            :
+  email            : "tomya@post.bgu.ac.il"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
