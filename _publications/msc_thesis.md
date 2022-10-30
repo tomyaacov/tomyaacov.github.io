@@ -5,8 +5,8 @@ permalink: /publication/msc_thesis
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-06-01
 #venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/Tom_Yaacov_M_Sc__Thesis.pdf'
+paperurl: 'http://tomyaacov.github.io/files/Tom_Yaacov_M_Sc__Thesis.pdf'
 citation: 'T. Yaacov, “Extending behavioral programming towards improvedsoftware engineering practices,” M.Sc. Thesis, 2021.'
 ---
-[Download paper here](http://academicpages.github.io/files/Tom_Yaacov_M_Sc__Thesis.pdf)
-T. Yaacov, “Extending behavioral programming towards improvedsoftware engineering practices,” M.Sc. Thesis, 2021.
+#[Download paper here](http://academicpages.github.io/files/Tom_Yaacov_M_Sc__Thesis.pdf)
+#T. Yaacov, “Extending behavioral programming towards improvedsoftware engineering practices,” M.Sc. Thesis, 2021.
