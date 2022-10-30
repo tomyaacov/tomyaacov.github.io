@@ -8,5 +8,8 @@ date: 2021-06-01
 paperurl: 'http://tomyaacov.github.io/files/Tom_Yaacov_M_Sc__Thesis.pdf'
 citation: 'T. Yaacov, “Extending behavioral programming towards improvedsoftware engineering practices,” M.Sc. Thesis, 2021.'
 ---
-#[Download paper here](http://academicpages.github.io/files/Tom_Yaacov_M_Sc__Thesis.pdf)
-#T. Yaacov, “Extending behavioral programming towards improvedsoftware engineering practices,” M.Sc. Thesis, 2021.
+<!--- 
+[Download paper here](http://academicpages.github.io/files/Tom_Yaacov_M_Sc__Thesis.pdf)
+T. Yaacov, “Extending behavioral programming towards improvedsoftware engineering practices,” M.Sc. Thesis, 2021. 
+--->
+
