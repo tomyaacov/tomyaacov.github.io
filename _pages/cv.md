@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 <p align="center">
-  <img src="https://tomyaacov.github.io/files/Tom_Yaacov___CV.pdf" alt="Photo" style="width: 785px;"/> 
+  <img src="https://tomyaacov.github.io/files/Tom_Yaacov___CV.jpg" alt="Photo" style="width: 785px;"/> 
 </p>
 
