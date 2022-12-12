@@ -1,0 +1,14 @@
+---
+title: "Using Behavioural Programming with Solver, Context, and Deep Reinforcement Learning for Playing a Simplified RoboCup-Type Game"
+collection: publications
+permalink: /publications/MDETools2019
+date: 2019-10-1
+venue: '2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)'
+---
+
+# How to cite 
+A. Elyasaf, A. Sadon, G. Weiss and T. Yaacov, [Using Behavioural Programming with Solver, Context, and Deep Reinforcement Learning for Playing a Simplified RoboCup-Type Game](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8904862&isnumber=8904463) 2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C), 2019, pp. 243-251, doi: 10.1109/MODELS-C.2019.00039.
+# Abstract
+We describe four scenario-based implementations of controllers for a player in a simplified RoboCup-type game. All four implementations are based on the behavioural programming (BP) approach. We first describe a simple controller for the player using the state-of-the-art BPjs tool and then show how it can be extended in various ways. The first extension is based on a version of BP where the Z3 SMT solver is used to provide mechanisms for richer composition of modules within the BP model. This allows for modules with higher cohesion and lower coupling. It also allows incrementality: we could use the scenarios we developed for the challenge of MDETOOLS'18 and extend the model to handle the new system. The second extension of BP demonstrated in this paper is a set of idioms for subjecting model components to context. One of the differences between this year's challenge and the challenge we dealt with last year is that following the ball is not the only task that a player needs to handle, there is much more to care for. We demonstrate how we used the idioms for handling context to parametrize scenarios like "go to a target" in a dynamic and natural fashion such that modelers can efficiently specify reusable components similar to the way modern user manuals for advanced products are written. Lastly, in an attempt to make the instructions to the robot even more natural, we demonstrate a third extension based on deep reinforcement learning. Towards substantiating the observation that it is easier to explain things to an intelligent agent than to dumb compiler, we demonstrate how the combination of BP and deep reinforcement learning (DRL) allows for giving abstract instructions to the robot and for teaching it to follow them after a short training session.
+# Keyword
+Behavioral Programming , Deep Reinforcement Learning, Context Oriented Modelling , BPjs, DRL

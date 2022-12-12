@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+<!-- layout: archive -->
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="http://tomyaacov.github.io/files/Tom_Yaacov___CV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://tomyaacov.github.io/files/Tom_Yaacov___CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://tomyaacov.github.io/files/Tom_Yaacov___CV.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<p align="center">
+  <img src="https://tomyaacov.github.io/files/Tom_Yaacov___CV.pdf" alt="Photo" style="width: 785px;"/> 
+</p>
+

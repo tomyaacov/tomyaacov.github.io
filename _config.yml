@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -83,12 +83,11 @@ author:
   name             : "Tom Yaacov"
   avatar           : "tom_yaacov.jpeg"
   bio              : ""
-  location         : #"Location"
+  location         : #"Richland, WA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rZrcyk0AAAAJ&hl=en"
   email            : "tomya@post.bgu.ac.il"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Tom-Yaacov"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tomyaacov"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tom-yaacov-43474a10b/"
   orcid            : "https://orcid.org/0000-0002-0565-6506"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -309,3 +308,24 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-midnight
+
+# Show PV/UV of the website/page with busuanzi.
+# Get more information on http://ibruce.info/2015/04/04/busuanzi/
+busuanzi_count:
+  # count values only if the other configs are false
+  enable: true
+  # custom uv span for the whole site
+  site_uv: true
+  site_uv_header: 访客数
+  site_uv_footer: 人
+  # custom pv span for the whole site
+  site_pv: true
+  site_pv_header: 总访问量
+  site_pv_footer: 次
+  # custom pv span for one page only
+  page_pv: true
+  page_pv_header: <i class="fa fa-file-o"></i>  阅读数
+  page_pv_footer:
+  
