@@ -2,7 +2,7 @@
 title: "Extending Behavioral Programming Towards Improved Software Engineering Practices"
 collection: publications
 permalink: /publications/msc_thesis
-date: 2021-10-1
+date: 2021
 #venue: ''
 ---
 
