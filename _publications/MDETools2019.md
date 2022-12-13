@@ -3,7 +3,7 @@ title: "Using Behavioural Programming with Solver, Context, and Deep Reinforceme
 collection: publications
 permalink: /publications/MDETools2019
 date: 2019-10-1
-venue: 'ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)'
+venue: '2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)'
 ---
 
 # How to cite 
