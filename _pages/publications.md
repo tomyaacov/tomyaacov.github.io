@@ -4,10 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2023
+
+<b>[BPpy: Behavioral programming in Python](https://tomyaacov.github.io/publications/SoftwareX2023)</b> <br> 
+T. Yaacov.
+<i>SoftwareX</i>.
+
+
 ## 2022
 
 <b>[What Petri Nets Oblige Us to Say Comparing Approaches for Behavior Composition](https://tomyaacov.github.io/publications/TSE2022)</b> <br> 
-A. Elyasaf, T. Yaacov and G. Weiss.
+A. Elyasaf, T. Yaacov, and G. Weiss.
 <i>IEEE Transactions on Software Engineering</i>.
 
 
