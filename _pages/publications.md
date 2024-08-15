@@ -4,6 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+
+<b>[Keeping Behavioral Programs Alive: Specifying and Executing Liveness Requirements](https://tomyaacov.github.io/publications/RE2024)</b> <br> 
+T. Yaacov, A. Elyasaf, and G. Weiss.
+<i>Proceedings of the 32nd IEEE International Requirements Engineering Conference (RE'24)</i>.
+
+<b>[Boosting LLM-Based Software Generation by Aligning Code with Requirements](https://tomyaacov.github.io/publications/MoDRE2024)</b> <br> 
+T. Yaacov, A. Elyasaf, and G. Weiss.
+<i>Proceedings of the 14th International Model-Driven Requirements Engineering Workshop (MoDRE'24)</i>.
+
 ## 2023
 
 <b>[BPpy: Behavioral programming in Python](https://tomyaacov.github.io/publications/SoftwareX2023)</b> <br> 
