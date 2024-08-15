@@ -2,8 +2,8 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "CV"
-    url: /cv/
+  - title: "Awards & Honours"
+    url: /awards/
   - title: "Projects"
     url: /projects/
 
