@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "ENASE2025"
+permalink: /enase2025/
+author_profile: true
+---
 
 [ppt](https://tomyaacov.github.io/files/BP_ENASE_2025.pptx)
 
