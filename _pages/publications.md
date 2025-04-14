@@ -4,9 +4,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2025
+
+<b>[Exploring and Evaluating Interplays of BPpy with Deep Reinforcement Learning and Formal Methods](https://arxiv.org/abs/2501.15480)</b> <br> 
+T. Yaacov, G. Weiss, A. Ashrov, G. Katz, and J. Zisser.
+<i>Proceedings of the 20th International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE'25)</i>.
+
+<b>[Adding Liveness to Behavioral Programming: Theory, Implementation, and User Study](https://link.springer.com/article/10.1007/s00766-025-00439-4)</b> <br> 
+T. Yaacov, A. Elyasaf, and G. Weiss.
+<i>Requirements Engineering</i>.
+
+
 ## 2024
 
-<b>[Keeping Behavioral Programs Alive: Specifying and Executing Liveness Requirements](https://arxiv.org/abs/2404.01858)</b> <br> 
+<b>[Keeping Behavioral Programs Alive: Specifying and Executing Liveness Requirements](https://ieeexplore.ieee.org/abstract/document/10628498)</b> <br> 
 T. Yaacov, A. Elyasaf, and G. Weiss.
 <i>Proceedings of the 32nd IEEE International Requirements Engineering Conference (RE'24)</i>.
 
