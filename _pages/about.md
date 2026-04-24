@@ -8,19 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science Ph.D. candidate at the Ben-Gurion University of the Negev, Beer Sheva, Israel, under the advisement of Prof. Gera Weiss and Dr. Achiya Elyasaf. 
+I am a postdoctoral researcher in the [Department of Informatics](https://www.kcl.ac.uk/informatics) at [King’s College London](https://www.kcl.ac.uk/), under the advisement of Prof. [Hana Chockler](https://www.hanachockler.com/). My research focuses on causal reasoning and its application to explainable AI for medical imaging, robotics, and process mining.
 
-My research specializes in the Behavioral Programming (BP) paradigm, focusing on its application in software development, reactive systems, and requirements modeling. This work centers on enhancing the alignment of system implementations with their requirements by proposing new methodologies and tools that combine BP, Artificial Intelligence (AI), and formal methods. Through this research, I aim to create a comprehensive toolbox for developers, offering a rich, multifaceted development process that is rigorous and adaptable to the evolving needs of modern software systems.
-
-
-**Research Interests:**
-- Behavioral Programming
-- Requirements Engineering
-- Large Language Models
-- Reinforcement Learning
-- Formal Methods
-- Petri nets
-
-
-
-
+Previously, I completed my Ph.D. (2021–2024) in the Department of Computer Science at [Ben-Gurion University of the Negev](https://www.bgu.ac.il/en/), under the advisement of Prof. [Gera Weiss](https://geraw.weebly.com/) and Dr. [Achiya Elyasaf](https://achiya.elyasaf.net/). My research specialized in the Behavioral Programming (BP) paradigm, focusing on its application in software development, reactive systems, and requirements modeling.
