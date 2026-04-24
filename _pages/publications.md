@@ -6,6 +6,15 @@ author_profile: true
 
 ## 2025
 
+<b>[Automata Models for Effective Bug Pattern Description](https://ieeexplore.ieee.org/abstract/document/11245297)</b> <br> 
+T. Yaacov, G. Weiss, G. Amram, and A. Hayoun.
+<i>2025 ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS)</i>.
+
+<b>[Streamlined Integration of GR(1) Synthesis and Reinforcement Learning for Optimizing Critical Cyber-Physical Systems](https://ieeexplore.ieee.org/abstract/document/11245315)</b> <br> 
+E. Wete, J. Greenyer, T. Yaacov, D. Kudenko, and W. Nejdl
+<i>2025 ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS)</i>.
+
+
 <b>[Exploring and Evaluating Interplays of BPpy with Deep Reinforcement Learning and Formal Methods](https://arxiv.org/abs/2501.15480)</b> <br> 
 T. Yaacov, G. Weiss, A. Ashrov, G. Katz, and J. Zisser.
 <i>Proceedings of the 20th International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE'25)</i>.
