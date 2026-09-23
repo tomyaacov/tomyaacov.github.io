@@ -11,7 +11,7 @@ T. Yaacov, N. Blake, and H. Chockler<br>
 <i>2026 IEEE International Conference on Data Mining (ICDM)</i>.
 
 <b>[Explaining Failures of Cyber-Physical Systems with Actual Causality](https://arxiv.org/abs/2606.24546)</b> <br> 
-K. Elimelech*, T. Yaacov*, D. A. Kelly, H. Chockler, and M. Y. Vardi<br> 
+K. Elimelech\*, T. Yaacov\*, D. A. Kelly, H. Chockler, and M. Y. Vardi<br> 
 <i>2026 IEEE International Conference on Robotics and Automation (ICRA)</i>.
 
 <b>[Integrative Approaches to Behavioral Programming with Formal Methods and Artificial Intelligence]()</b> <br> 
@@ -62,7 +62,7 @@ T. Yaacov<br>
 ## 2022
 
 <b>[What Petri Nets Oblige Us to Say Comparing Approaches for Behavior Composition](https://ieeexplore.ieee.org/abstract/document/9927374)</b> <br> 
-A. Elyasaf*, T. Yaacov*, and G. Weiss*<br> 
+A. Elyasaf\*, T. Yaacov\*, and G. Weiss\*<br> 
 <i>IEEE Transactions on Software Engineering</i>.
 
 
@@ -76,5 +76,5 @@ T. Yaacov<br>
 
 ## 2019
 <b>[Using Behavioural Programming with Solver, Context, and Deep Reinforcement Learning for Playing a Simplified RoboCup-Type Game](https://tomyaacov.github.io/publications/MDETools2019)</b> <br> 
-A. Elyasaf*, A. Sadon*, G. Weiss*, and T. Yaacov*<br> 
+A. Elyasaf\*, A. Sadon\*, G. Weiss\*, and T. Yaacov\*<br> 
 <i>2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS)</i>.
